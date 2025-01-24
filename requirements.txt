@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+librosa
+numpy
+jsonlines
+chardet
