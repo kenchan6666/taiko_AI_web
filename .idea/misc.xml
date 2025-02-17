@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (taiko_AI)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (taiko_AI)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.12.3 (sftp://root@region-42.seetacloud.com:59880/root/.virtualenvs/taiko_AI/bin/python)" project-jdk-type="Python SDK" />
 </project>

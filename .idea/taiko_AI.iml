@@ -10,7 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/model" />
       <excludeFolder url="file://$MODULE_DIR$/model/taiko_model_2.0" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.12.3 (sftp://root@region-42.seetacloud.com:59880/root/.virtualenvs/taiko_AI/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
